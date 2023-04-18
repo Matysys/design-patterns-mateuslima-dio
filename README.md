@@ -22,3 +22,5 @@ vai saber as mudanças de estado da classe ```CarroRoubado``` e agir de acordo c
 Não há segredo, somente execute o projeto na IDE de sua preferência e veja os resultados no terminal, ou altere o código da forma que quiser.
 Eu separei cada padrão de projeto para ser visualizado facilmente via terminal.
 
+## Projeto sendo executado:
+![executando](img/executando.png)
